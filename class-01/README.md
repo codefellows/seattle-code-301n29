@@ -1,5 +1,8 @@
 # React and Component-Based Architecture
 
+[React Notes](https://rogerreyes807252.invisionapp.com/freehand/301n29-Class01-rrwm4Wlxh?dsid_h=78cad3abcf16cfa9108b0ee1f097985f7f6a3bbe98ce2fcaf1ec481596d91072&uid_h=a71a412343c713ac5797166d6811cdaa472b164b049a62bb0abc75b200c81042)  
+[Replit](https://replit.com/@RogerMReyes/301n29class01#index.js)
+
 ## Overview
 
 Today we will be covering some new topics and reviewing concepts you should already be familiar with.
