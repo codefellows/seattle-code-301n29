@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Anthony",
+    "favoriteFruit": "Pineapple",
+    "imgURL": "https://plus.unsplash.com/premium_photo-1661776537856-57e9821457b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80"
+  },
+  {
+    "name": "Danner",
+    "favoriteFruit": "Apple",
+    "imgURL": "https://images.unsplash.com/photo-1589217157232-464b505b197f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "name": "Nick",
+    "favoriteFruit": "Orange",
+    "imgURL": "https://images.unsplash.com/photo-1580052614034-c55d20bfee3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "name": "Paula",
+    "favoriteFruit": "Lychee",
+    "imgURL": "https://images.unsplash.com/photo-1594151820883-f09a7a4246fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
+  },
+  {
+    "name": "Peter",
+    "favoriteFruit": "Pear",
+    "imgURL": "https://images.unsplash.com/photo-1572929773424-93549dced6d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+  },
+  {
+    "name": "Araceli",
+    "favoriteFruit": "Grapes",
+    "imgURL": "https://images.unsplash.com/photo-1599819177626-b50f9dd21c9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+  },
+  {
+    "name": "Jeremy",
+    "favoriteFruit": "Cherry",
+    "imgURL": "https://images.unsplash.com/photo-1560772336-0a9953caf5b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+  },
+  {
+    "name": "Matthew",
+    "favoriteFruit": "Plum",
+    "imgURL": "https://images.unsplash.com/photo-1610659591888-82a4a77a6414?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+  },
+  {
+    "name": "Casey",
+    "favoriteFruit": "Watermelon",
+    "imgURL": "https://images.unsplash.com/photo-1625367601763-03c05b49937e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+  },
+  {
+    "name": "Brenden",
+    "favoriteFruit": "Banana",
+    "imgURL": "https://images.unsplash.com/photo-1594489428504-5c0c480a15fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80"
+  },
+  {
+    "name": "Yurii",
+    "favoriteFruit": "Peach",
+    "imgURL": "https://images.unsplash.com/photo-1629732676198-fe5cd0933cfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1402&q=80"
+  },
+  {
+    "name": "Hannah",
+    "favoriteFruit": "Kiwi",
+    "imgURL": "https://images.unsplash.com/photo-1611575330633-551252bafad7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+  }
+]
