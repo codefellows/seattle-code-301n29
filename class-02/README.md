@@ -1,5 +1,8 @@
 # State and Props
 
+[State, Props, and React Bootstrap Notes](https://rogerreyes807252.invisionapp.com/freehand/301n29-Class-02-iLFbyX0fV)  
+[Replit](https://replit.com/@RogerMReyes/301n29-Class02#index.js)
+
 ## Overview
 
 Today's class will focus on passing information as `props` from a parent component into a child component. We will also cover the concept of `state` and how individual components can hold state.
