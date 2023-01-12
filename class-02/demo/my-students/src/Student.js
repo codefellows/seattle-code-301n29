@@ -5,13 +5,15 @@ class Student extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      clickedFavorite: false
+      clickedFavorite: false,
+      numOfFaves: 0
     };
   }
 
   handleFavorite = () => {
     this.setState({
-      clickedFavorite: this.state.clickedFavorite ? false : true
+      clickedFavorite: true,
+      numOfFaves: this.state.numOfFaves + 1
     })
   };
 
@@ -26,7 +28,7 @@ class Student extends React.Component {
             alt={this.props.favoriteFruit}
             onClick={this.handleFavorite}
           />
-          {this.state.clickedFavorite ? <Card.Text>Favorited: ❤️</Card.Text> : <Card.Text>Favorited: 🖤</Card.Text>}
+          {this.state.clickedFavorite ? <Card.Text>Favorited: ❤️{this.state.numOfFaves}</Card.Text> : <Card.Text>Favorited: 🖤</Card.Text>}
         </Card>
       </div>
     )
