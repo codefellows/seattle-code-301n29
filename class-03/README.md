@@ -1,5 +1,8 @@
 # Passing Functions as Props
 
+[Pass Function as Props Notes](https://rogerreyes807252.invisionapp.com/freehand/301n29-class03-feC2ZpL5M)  
+[Replit .filter](https://replit.com/@RogerMReyes/301n29-class03#index.js)
+
 ## Retros
 
 Curly Braces - In JSX curly braces represents inserting a variable. Outside of JSX curly braces represents an object
