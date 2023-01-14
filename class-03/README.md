@@ -1,5 +1,14 @@
 # Passing Functions as Props
 
+## Retros
+
+Curly Braces - In JSX curly braces represents inserting a variable. Outside of JSX curly braces represents an object
+
+Props - Properties passed from Parent Component to Child Component
+State - Properties local to the Component Instance that are expected to change to trigger re-render
+
+Arrow Functions - Make full use of contextual this
+
 ## Overview
 
 Yesterday, you learned how to pass information from a parent component into a child component through `props`. Today, we are going to pass functions through the `props` as well. We are also going to display a nested component using `.map` rather than hard-coding each one individually.
