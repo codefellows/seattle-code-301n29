@@ -4,7 +4,7 @@
 
 Curly Braces - In JSX curly braces represents inserting a variable. Outside of JSX curly braces represents an object
 
-Props - Properties passed from Parent Component to Child Component
+Props - Properties passed from Parent Component to Child Component  
 State - Properties local to the Component Instance that are expected to change to trigger re-render
 
 Arrow Functions - Make full use of contextual this
