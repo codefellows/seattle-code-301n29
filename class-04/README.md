@@ -1,5 +1,29 @@
 # React and Forms
 
+## Retros
+
+- ESlint
+  -config file provided in class Repo
+
+- Project functionality and flow, how do you know?
+  - Readable, Simplicity, Would it make sense at a glance
+  - Refactoring
+
+- Purpose of data flow and why props shouldn't be manipulated
+  - React Data flows down - this.setState() single source of truth
+  - Re-rendering
+
+- Inline Styling vs Stylesheet
+  - inline - quick, easy-target, over-ride / messy code if too much
+  - style sheet - Bulk changes in style, More styling ability
+
+- Retros
+  - Agile project management methodology in the industry
+  - quick notes recap questions 1-3
+  - questions 4 and 5 are for me
+
+- Demos will start pushing up during ending questions
+
 ## Overview
 
 Today we will cover how React handles `forms` and the asynchronous nature of setting state.
