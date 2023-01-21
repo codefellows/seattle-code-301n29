@@ -1,5 +1,14 @@
 # Class 5: Putting it all together
 
+## Retros
+
+Info overload and confusing flow
+Comfort comes with practice.
+
+Styling CSS takes practice and a lot of documentation reading!
+
+How to refer to variables within in imported data set.
+
 ## Overview
 
 Today we will use the skills we learned over the week to build a new application: city explorer! Your lab will be to take React starter code and turn it into a beautiful portfolio.
@@ -90,4 +99,3 @@ Today we will use the skills we learned over the week to build a new application
       )
     }
   }
-  ```
