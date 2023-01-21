@@ -1,5 +1,10 @@
 # Class 5: Putting it all together
 
+## Class Notes
+
+[Invision Notes](https://rogerreyes807252.invisionapp.com/freehand/301n29-class05-1D4nDURpA)
+[.reduce Replit](https://replit.com/@RogerMReyes/301n29-class05#index.js)
+
 ## Retros
 
 Info overload and confusing flow
