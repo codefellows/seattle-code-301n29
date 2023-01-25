@@ -14,6 +14,10 @@
 
 ## Class Notes
 
+[Invision Notes](https://rogerreyes807252.invisionapp.com/freehand/301n29-class06-SCqbqNZBh?landingTemplate=true)
+[Pokemon API in Replit](https://replit.com/@RogerMReyes/301n29-APIs-and-Axios#index.js)
+[Pass by Value vs Pass by Reference](https://replit.com/@RogerMReyes/301n29-class06#index.js)
+
 ## Overview
 
 Today we will explore third party APIs and how to request data from them.
