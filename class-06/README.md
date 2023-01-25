@@ -1,5 +1,19 @@
 # Asynchronous Code and Third Party APIs
 
+## Retros and Feedback
+
+- Getting more comfortable tackling code challenges
+
+- Algorithm challenge enjoyers
+  - 400 class deep into data-structures and algorithms
+
+- What to expect moving forward after this class
+  - 1 on 1 meeting
+
+- Road mapping
+
+## Class Notes
+
 ## Overview
 
 Today we will explore third party APIs and how to request data from them.
