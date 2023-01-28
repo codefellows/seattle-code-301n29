@@ -1,5 +1,18 @@
 # Express Servers
 
+## Retros
+
+- Error handling in lab06
+
+- Netlify Deployment
+
+- API fuzzy concept but able to utilize in code
+
+- More comfort in
+  - building Components
+  - CSS
+  - Using State and Props
+
 ## Overview
 
 Today we will build our own custom Express server in Node.js. We will server our front end static files and dive more deeply into the WRRC.
