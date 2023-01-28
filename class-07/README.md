@@ -1,5 +1,10 @@
 # Express Servers
 
+## Notes 
+
+[Invision Notes](https://rogerreyes807252.invisionapp.com/freehand/301n29-class07-WYusFfTPJ)
+[Replit](https://replit.com/@RogerMReyes/301n29-class07#index.js)
+
 ## Retros
 
 - Error handling in lab06
