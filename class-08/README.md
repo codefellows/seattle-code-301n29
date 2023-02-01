@@ -1,5 +1,10 @@
 # APIs
 
+## Notes
+
+[REGEX Replit](https://replit.com/@RogerMReyes/301n29-class08#index.js)
+[WRRC](https://rogerreyes807252.invisionapp.com/freehand/301n29-class0708-WYusFfTPJ)
+
 ## Retros
 
 - Feeling of not retaining all the information
