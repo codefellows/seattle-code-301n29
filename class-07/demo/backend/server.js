@@ -10,7 +10,6 @@ const express = require('express');
 const app = express();
 
 const cors = require('cors');
-const { response } = require('express');
 
 // Anyone can make a request to our server
 app.use(cors())
