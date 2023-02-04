@@ -1,5 +1,21 @@
 # Advanced Topics
 
+## Notes
+
+[Replit Object Methods](https://replit.com/@RogerMReyes/301n29-class09#index.js)
+[Promises](https://replit.com/@RogerMReyes/301n29-class09Promises#index.js)
+
+## Retros
+
+- Connection between front and back end
+
+- Working with API's
+  - Documentation - endpoints / formatting of data
+
+- Error Handling
+
+- Regex
+
 ## Overview
 
 Today we will dive a little bit deeper into Express and higher level programming in general, covering the following topics:
