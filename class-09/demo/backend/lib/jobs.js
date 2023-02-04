@@ -22,6 +22,12 @@ function getJobs(req, res, next) {
       res.status(200).send(formattedJobData);
     })
     .catch(error => next(error));
+
+  // Even More Refactored
+  // axios.get(url)
+  //   .then(data => formattedJobData = data.data.jobs.map(jobObj => new Job(jobObj)))
+  //   .then(formattedJobData => res.status(200).send(formattedJobData))
+  //   .catch(error => next(error));
 }
 
 class Job {
