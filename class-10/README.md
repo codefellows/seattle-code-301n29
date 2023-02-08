@@ -1,5 +1,18 @@
 # Persistence
 
+## Notes
+
+[Replit 2D-Arrays](https://replit.com/@RogerMReyes/301n29-class10#index.js)
+[Invision WRRC](https://rogerreyes807252.invisionapp.com/freehand/301n29-class10-wu5hMo4BR?landingTemplate=true)
+
+## Retros
+
+- new project/api every project
+  - more exposure to different api's
+  - how they differ/ what code needs to be altered
+
+- White-boarding PPH
+
 ## Overview
 
 Today we will talk about in-memory storage as well as dive deeper into modularization and refactorization.
