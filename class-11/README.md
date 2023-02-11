@@ -1,5 +1,16 @@
 # MongoDB, Mongoose and Data Modeling
 
+[Invision Notes](https://rogerreyes807252.invisionapp.com/freehand/301n29-Class11-rNBjiH2Bg?landingTemplate=true)
+[Chaining Methods Replit](https://replit.com/@RogerMReyes/301n29-class11#index.js)
+
+## Retros
+
+- Does Every Company have and API?
+
+- Is there more to the backend?
+
+- frontend/ backend familiarty and connections
+
 ## Overview
 
 This is the beginning of our new project, a mobile-only book collection. You will be gradually working towards a full-scale application, complete with an express server, persistence in a MongoDB database, authentication, and the ability to view, add, update and delete books from your React front end.
