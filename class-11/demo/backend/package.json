@@ -1,0 +1,17 @@
+{
+  "name": "301dogs-backend",
+  "version": "1.0.0",
+  "description": "demo on mongoDB database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  }
+}
