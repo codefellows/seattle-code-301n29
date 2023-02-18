@@ -1,5 +1,15 @@
 # Updating Resources
 
+## Retros
+
+- Hooks - 401, another library, state management
+
+- Frontend - Backend Communication
+  - WRRC
+
+- .env files
+  - backend vs frontend
+
 ## DEI Reminder
 
 In our next class we will discuss Diversity, Equity and Inclusion.  Be sure to complete [the reading assignment](https://codefellows.github.io/code-301-guide/curriculum/class-14/DISCUSSION) before class begins in order to achieve full credit for the activity.
