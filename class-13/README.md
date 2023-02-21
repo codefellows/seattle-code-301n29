@@ -1,5 +1,9 @@
 # Updating Resources
 
+## Notes 
+
+[Replit](https://replit.com/@RogerMReyes/301n29-class13#index.js)
+
 ## Retros
 
 - Hooks - 401, another library, state management

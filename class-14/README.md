@@ -1,6 +1,21 @@
 
 # DEI and 301 Final Exam
 
+## Retros
+
+- why event listeners need an anonymous function call when utilizing arguments
+
+- multiple mentions of router
+  - Not the way we are implementing routes in our class
+  - More ways of doing the same thing, More exposure
+  - Refactoring
+
+- Paired Programming
+  - more exposure to other ideas, other ways people code
+  - driver navigation to help with whiteboarding
+
+
+
 ## Overview
 
 We begin class with a discussion on Diversity, Equity, and Inclusion in technology. Take some time to think about what a diverse workplace and team would look like for you and what you think the benefits of that type of team would be.
