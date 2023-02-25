@@ -1,5 +1,19 @@
 # Final Project Kick-off
 
+## Class Notes
+
+[Invision](https://rogerreyes807252.invisionapp.com/freehand/301n29-class15-m5MPCL5UQ?dsid_h=8e97935805803f29379b3cc5a4649dd6062945769d35f61f60b515b2b10c91aa&uid_h=a71a412343c713ac5797166d6811cdaa472b164b049a62bb0abc75b200c81042)
+
+## Retro Notes
+
+- DEI
+  - Dr.Robin runs majority day DEI
+  - speak your mind  
+
+- Final Exam
+  - working with an existing code base
+  - different look/ same base concept  
+
 ## Overview
 
 Today is the last day of formal lecture. It's time to add authentication to our app, so we know, with some level of confidence, who our users are.

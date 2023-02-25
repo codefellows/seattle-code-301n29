@@ -1,6 +1,6 @@
 # Updating Resources
 
-## Notes 
+## Notes
 
 [Replit](https://replit.com/@RogerMReyes/301n29-class13#index.js)
 
